@@ -105,7 +105,7 @@ Exemplo 03:
   |_ backend
     |_ .docker
       |_ docker-compose.yml
-      |_ Dockerfile
+      |_ Dockerfile.x.dev
     |_ src
     |_ public
   |_ frontend
