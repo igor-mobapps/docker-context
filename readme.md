@@ -38,7 +38,7 @@ docker build -t custom -f Dockerfile ../
 docker build -t custom -f .docker/Dockerfile .
 
 // docker build sendo executado a partir do project
-docker build -t custom -f .backend/docker/Dockerfile backend
+docker build -t custom -f backend/docker/Dockerfile backend
 ```
 
 ### Docker Compose
